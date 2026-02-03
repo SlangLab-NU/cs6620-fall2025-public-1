@@ -8,6 +8,8 @@ git clone <repository-url>
 # Explore available branches
 git branch -a
 
+modifying readme
+
 # Checkout a specific week
 git checkout week-02
 
